@@ -23,4 +23,12 @@ Kim Francis O. Dela Cruz - Member
 
 Julius L. Natividad - Member
 
+
+Access this youtube video to know about our Console Application: [https://youtu.be/eYxMdLVzV1s](https://www.youtube.com/watch?v=cGNCvawfACc)
+
+
+# Preview
+![image](https://github.com/Joronski/Bingo_Line_Up_Game_Java_Console_Application/assets/91183608/988514d3-8ba4-45ab-998a-bb536dc6b6a0)
+
+
 Recio's Group Library Management System (© 2024 RECIO)
