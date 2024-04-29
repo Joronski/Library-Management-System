@@ -24,7 +24,7 @@ Kim Francis O. Dela Cruz - Member
 Julius L. Natividad - Member
 
 
-Access this youtube video to know about our Console Application: [https://youtu.be/eYxMdLVzV1s](https://www.youtube.com/watch?v=cGNCvawfACc)
+Access this youtube video to know about our GUI Application: [https://youtu.be/eYxMdLVzV1s](https://www.youtube.com/watch?v=cGNCvawfACc)
 
 
 # Preview
